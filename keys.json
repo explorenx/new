@@ -1,0 +1,7 @@
+{
+  "mongoHost": "mongodb://localhost",
+  "mongoPort": "8080",
+  "mongoDatabase": "clinics",
+  "mongoUser": "",
+  "mongoPass": ""
+}
